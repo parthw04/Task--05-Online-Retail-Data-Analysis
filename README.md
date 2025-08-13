@@ -57,5 +57,7 @@ The dataset contains all transactions from a UK-based online retail store betwee
 ```bash
 pip install pandas matplotlib
 ```
-📌 Author
+---
+
+## 📌 Author
 Project by parthw04...
